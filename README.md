@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ralph! 👋
 
-<!--
-**Ralph-Petallo/Ralph-Petallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Capstone Developer | Computer Systems Servicing Specialist
+I am currently developing **DashQuiz**, a specialized Learning Management System for **Taft National High School**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About My Project: DashQuiz
+- **Goal:** Modernizing assessments for Grade 11 & 12 CSS students.
+- **Focus:** National Certificate II (NC II) Core Competencies.
+- **Tech Stack:** Laravel, Vue.js, and MySQL.
+
+### 🛠️ Technical Skills
+- **Backend:** Laravel (PHP)
+- **Frontend:** Vue.js, Tailwind CSS
+- **Database:** MySQL
+- **Networking:** Router Configuration, Network Setup (CSS Focused)
+
+### 📫 Contact Me
+- **Email:** [ralphpetallo@gmail.com](mailto:ralphpetallo@gmail.com)
+- **Location:** Surigao, Philippines
